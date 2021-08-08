@@ -1,3 +1,23 @@
+# Windows Explorer :file_folder:
+
+* ## This is File tree (Windows Explorer) which was made with React.
+
+## Features
+
+* ### Close and Open the Folders
+* ### Different Icons for different file types.
+
+## Technologies used:
+
+* ### Visual Studio Code
+* ### React (Node JS)
+* ### Semantic UI Icons and CSS
+
+## What to Come:
+
+* ### Change folder and file names
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
